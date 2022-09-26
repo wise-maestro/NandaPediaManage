@@ -111,10 +111,10 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʙᴀɴᴛᴜᴀɴ", callback_data="emiko_support"
+        InlineKeyboardButton(text="✌️ʙᴀɴᴛᴜᴀɴ", callback_data="emiko_support"
        ),
         InlineKeyboardButton(
-            text="ᴅɪʀᴇᴋᴛᴜʀ", url="t.me/tokonandapedia"
+            text="👼ᴅɪʀᴇᴋᴛᴜʀ", url="t.me/tokonandapedia"
        ),
     ],
 ]
@@ -457,8 +457,8 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="🎧ᴍᴜsɪᴄ", callback_data="emiko_"),
-                    InlineKeyboardButton(text="🤖ᴍᴀɴᴀɢᴇ", callback_data="help_back"),
+                    InlineKeyboardButton(text="🎸ᴍᴜsɪᴄ", callback_data="emiko_"),
+                    InlineKeyboardButton(text="💻ᴍᴀɴᴀɢᴇ", callback_data="help_back"),
                  ],
                  [
                     InlineKeyboardButton(text="⭅ ᴋᴇᴍʙᴀʟɪ", callback_data="emiko_back"),
