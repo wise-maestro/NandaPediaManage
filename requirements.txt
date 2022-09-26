@@ -4,7 +4,7 @@ lxml
 wget
 gtts
 beautifulsoup4
-requests==2.20.0
+requests==2.28.1
 git+https://github.com/python-telegram-bot/ptbcontrib.git
 telegram==0.0.1
 python-telegram-bot==13.7
